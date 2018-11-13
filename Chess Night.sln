@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess Night", "Chess Night.csproj", "{A06E6C3A-0D3B-345C-89DC-C40EA2ABB07A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess Night.Editor", "Chess Night.Editor.csproj", "{5875C070-DAE3-5BF4-CDDD-5223B831BC01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A06E6C3A-0D3B-345C-89DC-C40EA2ABB07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A06E6C3A-0D3B-345C-89DC-C40EA2ABB07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A06E6C3A-0D3B-345C-89DC-C40EA2ABB07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A06E6C3A-0D3B-345C-89DC-C40EA2ABB07A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5875C070-DAE3-5BF4-CDDD-5223B831BC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5875C070-DAE3-5BF4-CDDD-5223B831BC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5875C070-DAE3-5BF4-CDDD-5223B831BC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5875C070-DAE3-5BF4-CDDD-5223B831BC01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
